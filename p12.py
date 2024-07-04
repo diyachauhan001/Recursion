@@ -6,3 +6,4 @@ def decimal_to_binary(n):
 
 decimal_number = 25
 print(f"The binary representation of {decimal_number} is: {decimal_to_binary(decimal_number)}")
+
